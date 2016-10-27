@@ -1,0 +1,23 @@
+{
+  "name": "webxtractor",
+  "version": "1.0.0",
+  "description": "scraping the web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scraping",
+    "web",
+    "youtube",
+    "crawl",
+    "extraction"
+  ],
+  "author": "5aurabh",
+  "license": "ISC",
+  "devDependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "request": "^2.76.0"
+  }
+}
